@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harumikiyama" alt="harumikiyama" /> </p>
 
-- 🌱 I’m currently learning **Golang, CFA**
+- 🌱 I’m currently learning **Golang, DATABASE**
 
 - 📝 I regulary write articles on [https://harumikiyama.github.io/](https://harumikiyama.github.io/)
 
