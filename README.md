@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harumi</h1>
-<h3 align="center">A backend engineer using *Python* with 6 years experience.</h3>
-<h3 align="center">Working as a Quant System Developer in **Tenbagger Capital** currently</h3>
+<h3 align="center">A backend engineer using <b>Python</b> with 6 years experience.</h3>
+<h3 align="center">Working as a Quant System Developer in <b>Tenbagger Capital</b> currently</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harumikiyama" alt="harumikiyama" /> </p>
 
