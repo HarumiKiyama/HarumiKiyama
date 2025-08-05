@@ -17,9 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 4 mins    ██████████████████████░░░   88.15 %
-Emacs Lisp   55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Bash         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Python       7 hrs 27 mins   ██████████████████████▒░░   89.05 %
+Emacs Lisp   55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
 ```
 
 <!--END_SECTION:waka-->
