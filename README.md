@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         10 hrs 13 mins  ██████████████████▓░░░░░░   75.00 %
-Assembly       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Emacs Lisp     40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-GDScript3      28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-ActionScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Python         10 hrs 53 mins  ██████████████████░░░░░░░   72.34 %
+Assembly       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Emacs Lisp     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+ActionScript   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+GDScript3      32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
