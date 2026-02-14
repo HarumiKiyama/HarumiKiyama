@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Rust           2 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
-ActionScript   1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-Markdown       1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-GDScript3      34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Rust           2 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   31.67 %
+Python         1 hr 58 mins    ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+ActionScript   1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Markdown       1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+GDScript3      32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->
