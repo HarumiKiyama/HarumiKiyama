@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         14 hrs 45 mins        █████████████░░░░░░░░░░░░   51.74 %
-Emacs Lisp     5 hrs 40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-ActionScript   1 hr 31 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Markdown       1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other          1 hr 28 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Python         14 hrs 29 mins        ████████████▓░░░░░░░░░░░░   50.62 %
+Emacs Lisp     6 hrs 30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
+ActionScript   1 hr 46 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Markdown       1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Other          1 hr 20 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
