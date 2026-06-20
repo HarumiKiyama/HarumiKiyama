@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         1 hr 23 mins          ████████████████████▒░░░░   81.20 %
-Emacs Lisp     5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-ActionScript   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Ezhil          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-YAML           2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
