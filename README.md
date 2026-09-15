@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ActionScript   43 mins               ████████████▒░░░░░░░░░░░░   49.50 %
-Emacs Lisp     32 mins               █████████▒░░░░░░░░░░░░░░░   37.34 %
-Bash           9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-Ezhil          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Other          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+ActionScript   7 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
